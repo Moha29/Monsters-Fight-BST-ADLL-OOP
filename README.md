@@ -1,0 +1,2 @@
+# Monsters-Fight-BST-ADLL-OOP
+The purpose of this program is to create a game where the user will be able to create monsters of 4 different kinds. This program supports 4 breeds vampires, zombies, werewolfs, and witches. Each breed has their own original status, the user will be able to apply power ups for each breed. Victory can be achieved when the attack and defense of a monster are higher than the other one. The binary search tree, and ADLL were used. The program is Object oriented
